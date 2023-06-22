@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-* Welcome to **zylipku.github.io**. This is the homepage for Zhuoyuan Li.
-* I am currently a PhD student from School of Mathematical Sciences, Peking University.
+* Welcome to **sunxinhao5513.github.io**. This is the homepage for Xinhao Sun.
+* I am currently a student from School of Computer Science, Peking University.
 
 ## Research interests
 
-* applications of deep learning on PDE problems
-* data assimilation and weather forecasting
+* applications of big language models
+* the development of high performance computing
