@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuoyuan Li"
+  name             : "Xinhao Sun"
   avatar           : "profile.png"
-  bio              : "PhD Student of Peking University"
+  bio              : "student of Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zylipku"
+  github           : "sunxinhao5513"
   google_plus      :
   keybase          :
   instagram        :
