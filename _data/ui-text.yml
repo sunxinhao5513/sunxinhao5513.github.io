@@ -1,5 +1,6 @@
 # User interface text and labels
 
+# This file contains the text and labels used in the user interface of the website.
 # English (default)
 # -----------------
 en: &DEFAULT_EN
