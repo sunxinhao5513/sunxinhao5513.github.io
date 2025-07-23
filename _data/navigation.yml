@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "learning process"
-    url: /_posts/
+   - title: "learning process"
+   - url: /_posts/
     
   # - title: "Guide"
   #   url: /markdown/
